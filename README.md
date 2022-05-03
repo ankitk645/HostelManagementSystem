@@ -1,13 +1,16 @@
 # HostelManagementSystem
 
-<img width="448" alt="image" src="https://user-images.githubusercontent.com/22288845/166509244-e850962f-8c8e-4608-84a6-d32b0fa2b29b.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/22288845/166509661-f6b33b8f-bfb0-4c09-8d1e-95e323ad805d.png">
 
-<img width="408" alt="image" src="https://user-images.githubusercontent.com/22288845/166509181-06399a7b-2385-4e97-8433-e0af5a617980.png">
+<img width="381" alt="image" src="https://user-images.githubusercontent.com/22288845/166509936-5a87006a-5421-43ca-be11-642583c54479.png">
 
-<img width="447" alt="image" src="https://user-images.githubusercontent.com/22288845/166508988-efbe6cae-1121-40ed-a223-70ebb5b73153.png">
+<img width="381" alt="image" src="https://user-images.githubusercontent.com/22288845/166509988-f9274545-4130-4fd5-9604-eb4748842166.png">
 
-<img width="448" alt="image" src="https://user-images.githubusercontent.com/22288845/166509022-299ee778-fcac-4a3f-9b02-f2db8c6413d3.png">
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/22288845/166510057-6d419b86-f065-4134-891d-2eb2b3cb6969.png">
 
-<img width="445" alt="image" src="https://user-images.githubusercontent.com/22288845/166509058-3961b237-3116-49c1-b0b9-da27055e5403.png">
+<img width="382" alt="image" src="https://user-images.githubusercontent.com/22288845/166510118-f597bbb2-22d9-4c53-bb86-bf6e1f4c0791.png">
 
-<img width="449" alt="image" src="https://user-images.githubusercontent.com/22288845/166509118-ff0a6faf-377b-4031-a66f-6bfb691a8678.png">
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/22288845/166510152-641a7c86-fe01-4183-9a09-8fc7e60416a2.png">
+
+<img width="381" alt="image" src="https://user-images.githubusercontent.com/22288845/166510191-9c3269d9-1a40-4129-9460-8b61684a508a.png">
+
